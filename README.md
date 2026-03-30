@@ -26,7 +26,7 @@ Eine moderne Desktop-Anwendung mit lila-blauem Farbverlauf, Animationen und API-
 ### Methode 2: Von Source
 
 ```bash
-git clone https://github.com/yourusername/TagWolf.git
+git clone https://github.com/tagwolf/TagWolf.git
 cd TagWolf
 pip install -r requirements.txt
 python src/main.py
